@@ -1,4 +1,4 @@
-<h2 align="center">Merhaba! 👋</h2>
+<h2 align="center">Merhaba 👋, Ben Eresbos!</h2>
 <p align="center">
   <a href="https://discord.com/users/239330400223232000" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/joe.barlow0" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
