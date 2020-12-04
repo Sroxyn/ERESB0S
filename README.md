@@ -8,5 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+  <br><img src = "https://img.shields.io/github/followers/ERESB0S?color=Green&label=Followers&logo=Github%20takip%C3%A7isi&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&show_icons=true&theme=white&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
