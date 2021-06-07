@@ -9,6 +9,7 @@
 
 <p align="center">
   <br><img src = "https://img.shields.io/github/followers/ERESB0S?color=Green&label=Followers&logo=Github%20takip%C3%A7isi&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
 </p>
 
 ## Langauges I Know:
